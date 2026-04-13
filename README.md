@@ -117,11 +117,11 @@ streamlit run app.py
 
 ```id="j1k2l3"
 Online-Product-analysis/
-│── app.py
-│── Data.xlsx
-│── requirements.txt
-│── README.md
 │── Images
+│── Data.xlsx
+│── README.md
+│── app.py
+│── online product price analysis.ipynb
 ```
 
 ---
