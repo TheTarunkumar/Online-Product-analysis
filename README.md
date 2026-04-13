@@ -99,10 +99,10 @@ git clone https://github.com/TheTarunkumar/Online-Product-analysis.git
 cd Online-Product-analysis
 ```
 
-2. Install dependencies:
+2. Install libraries:
 
 ```bash id="4d5e6f"
-pip install -r requirements.txt
+pip install streamlit pandas plotly openpyxl
 ```
 
 3. Run the app:
